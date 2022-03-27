@@ -33,7 +33,6 @@ public class ValidateTitle extends Base {
 		String title=h.getTitle().getText();
 		log.info("Title is "+title);
 		log.info("Title Done");
-		Assert.fail();
 		driver.close();
 	}
 

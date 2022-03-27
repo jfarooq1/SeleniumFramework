@@ -46,7 +46,6 @@ public class HomePage extends Base {
 
 		si.getLogin().click();
 		log.info("Login Submit");
-		Assert.fail();
 		driver.close();
 	}
 
