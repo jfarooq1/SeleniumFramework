@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 57.523 s <<< FAILURE! - in TestSuite
+SeleniumFramework.HomePage.validateSignin  Time elapsed: 18.813 s  <<< FAILURE!
+java.lang.AssertionError: null
+	at SeleniumFramework.HomePage.validateSignin(HomePage.java:49)
+
+SeleniumFramework.ValidateTitle.Validate  Time elapsed: 27.496 s  <<< FAILURE!
+java.lang.AssertionError: null
+	at SeleniumFramework.ValidateTitle.Validate(ValidateTitle.java:36)
+

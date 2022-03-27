@@ -1,0 +1,7 @@
+17:53:20.841 [main] INFO  SeleniumFramework.HomePage - Driver is initialized
+17:53:35.632 [main] INFO  SeleniumFramework.HomePage - Alert Box is cancelled.
+17:53:36.360 [main] INFO  SeleniumFramework.HomePage - Login button clicked
+17:53:36.471 [main] INFO  SeleniumFramework.HomePage - Entered Username
+17:53:36.522 [main] INFO  SeleniumFramework.HomePage - Entered Password
+17:53:36.689 [main] INFO  SeleniumFramework.HomePage - Login Submit
+17:54:03.386 [main] INFO  SeleniumFramework.ValidateTitle - Verifying Title
